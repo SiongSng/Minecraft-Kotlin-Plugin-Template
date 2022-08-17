@@ -3,5 +3,5 @@ version: '${version}'
 main: com.example.exampleplugin.ExamplePlugin
 api-version: 1.19
 authors: []
-description: 輝煌伺服器的生日插件
+description: kotlin minecraft plugin example
 website: example.com
